@@ -14,6 +14,7 @@ You can follow the steps below to guide your data analysis and model building po
 
 pip install pyspark
 
+
 # install openjdk-8-jdk-headless -qq
 
 # Commented out IPython magic to ensure Python compatibility.
