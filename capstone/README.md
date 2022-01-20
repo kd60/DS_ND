@@ -31,7 +31,7 @@ Files:
 Instructions:
 	The data is provided by Sparkify for the Udacity Data Science Nanodegree Program. Please see the jupyter note book file for the detail analysis.
 	
-	for Medium Post : https://medium.com/@kmarmx/sparkfiy-a183fb013a39
+	for Medium Post : https://medium.com/@kmarmx/project-definition-684443106abd
 
 
 ## Licensing, Authors, Acknowledgements, etc.
